@@ -1,2 +1,2 @@
-# ccBlog
-ccBlog
+# Blog
+Blog
