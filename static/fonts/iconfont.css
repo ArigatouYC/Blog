@@ -1,0 +1,187 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3923867 */
+  src: url('@/static/fonts/iconfont.woff2?t=1677649945897') format('woff2'),
+       url('@/static/fonts/iconfont.woff?t=1677649945897') format('woff'),
+       url('@/static/fonts/iconfont.ttf?t=1677649945897') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 40px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-pen_line:before {
+  content: "\e782";
+}
+
+.icon-print_line:before {
+  content: "\e792";
+}
+
+.icon-profile_line:before {
+  content: "\e793";
+}
+
+.icon-purse_line:before {
+  content: "\e795";
+}
+
+.icon-rocket_line:before {
+  content: "\e79e";
+}
+
+.icon-safety_certificate_line:before {
+  content: "\e7a2";
+}
+
+.icon-shopping_bags_line:before {
+  content: "\e7b1";
+}
+
+.icon-applet_line:before {
+  content: "\e716";
+}
+
+.icon-apple_line:before {
+  content: "\e717";
+}
+
+.icon-alipay_line:before {
+  content: "\e71c";
+}
+
+.icon-certificate_line:before {
+  content: "\e727";
+}
+
+.icon-click_line:before {
+  content: "\e72c";
+}
+
+.icon-compass_line:before {
+  content: "\e72d";
+}
+
+.icon-chat_2_line:before {
+  content: "\e730";
+}
+
+.icon-diamond_line:before {
+  content: "\e73d";
+}
+
+.icon-down_square_line:before {
+  content: "\e73f";
+}
+
+.icon-emoji_cry_line:before {
+  content: "\e742";
+}
+
+.icon-emoji_line:before {
+  content: "\e743";
+}
+
+.icon-exchange_money_line:before {
+  content: "\e744";
+}
+
+.icon-faceid_line:before {
+  content: "\e745";
+}
+
+.icon-fire_line:before {
+  content: "\e74d";
+}
+
+.icon-heart_line:before {
+  content: "\e755";
+}
+
+.icon-github_line:before {
+  content: "\e754";
+}
+
+.icon-img_album_line:before {
+  content: "\e75a";
+}
+
+.icon-live_location_line:before {
+  content: "\e762";
+}
+
+.icon-lock_line:before {
+  content: "\e764";
+}
+
+.icon-magic_star_line:before {
+  content: "\e765";
+}
+
+.icon-moment_line:before {
+  content: "\e76d";
+}
+
+.icon-moon_line:before {
+  content: "\e772";
+}
+
+.icon-pie_chart_line:before {
+  content: "\e78d";
+}
+
+.icon-pin_line:before {
+  content: "\e78e";
+}
+
+.icon-power_line:before {
+  content: "\e791";
+}
+
+.icon-qq_line:before {
+  content: "\e794";
+}
+
+.icon-star_line:before {
+  content: "\e7b6";
+}
+
+.icon-sun_line:before {
+  content: "\e7b9";
+}
+
+.icon-thumb_down_line:before {
+  content: "\e7bd";
+}
+
+.icon-thumb_up_line:before {
+  content: "\e7be";
+}
+
+.icon-tool_line:before {
+  content: "\e7bf";
+}
+
+.icon-trash_line:before {
+  content: "\e7c4";
+}
+
+.icon-upload_square_line:before {
+  content: "\e7cc";
+}
+
+.icon-wechat_pay_line:before {
+  content: "\e7d5";
+}
+
+.icon-translate_line:before {
+  content: "\e7de";
+}
+
+.icon-world_line:before {
+  content: "\e7e4";
+}
+
